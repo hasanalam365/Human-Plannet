@@ -1,6 +1,7 @@
 # Human Plannet Volunteer
 
-This repository contains the source code for a blood donation website. The website allows users to create blood requests, donate blood, add and remove requests, and provides an admin dashboard for managing all donation requests. It also includes a funding page with Stripe integration and utilizes React Jodit Editor for content management.
+## Purpose
+The primary purpose of this website is to create a social platform where individuals can request help or volunteer their services for community benefit. It aims to foster a sense of community and collaboration among users.
 
 ## Site Link:
 - [Live Side Link](https://human-plannet-a11.web.app)
